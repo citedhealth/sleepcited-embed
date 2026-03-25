@@ -104,12 +104,6 @@ That's it. The widget fetches evidence data from the SleepCited API and renders 
 <script src="https://cdn.jsdelivr.net/npm/sleepcited-embed@1/dist/embed.min.js"></script>
 ```
 
-### R2 CDN (sleepcited.com hosted)
-
-```html
-<script src="https://cdn.sleepcited.com/embed.min.js"></script>
-```
-
 ### npm (for bundlers)
 
 ```bash
