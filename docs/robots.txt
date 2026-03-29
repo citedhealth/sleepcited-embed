@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# SleepCited Embed Widget
+# Main site: https://sleepcited.com
+# Widget docs: https://widget.sleepcited.com
+# npm: https://www.npmjs.com/package/sleepcited-embed
